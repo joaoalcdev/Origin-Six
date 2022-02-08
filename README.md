@@ -1,4 +1,4 @@
-# OriginSix-BootCamp // [[DEMO]](https://joao-alc.github.io/OriginSix-BootCamp/)
+# OriginSix-BootCamp // [[DEMO]](https://origin-six-topaz.vercel.app/)
 OriginSix ・Rocketseat ・BootCamp {NLW/Together}
 
 
